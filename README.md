@@ -1,6 +1,7 @@
-**Tanks for Nothing** is a retro-style action game inspired by Nintendo’s *Tank!*.
+# **Tanks for Nothing** 
 
-# [ITCH.IO](https://lluisem.itch.io/tanks-for-nothing)
+**Tanks for Nothing** is a retro-style action game inspired by Nintendo’s *Tank!*
 
-# Gameplay
-https://www.youtube.com/watch?v=RReRFyA-enw
+[**ITCH.IO**](https://lluisem.itch.io/tanks-for-nothing)
+
+[**Gameplay**](https://www.youtube.com/watch?v=RReRFyA-enw)
